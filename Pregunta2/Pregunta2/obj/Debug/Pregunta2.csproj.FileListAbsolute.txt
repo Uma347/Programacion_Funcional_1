@@ -1,9 +1,0 @@
-C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta2\Pregunta2\bin\Debug\Pregunta2.exe.config
-C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta2\Pregunta2\bin\Debug\Pregunta2.exe
-C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta2\Pregunta2\bin\Debug\Pregunta2.pdb
-C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta2\Pregunta2\obj\Debug\Pregunta2.csprojResolveAssemblyReference.cache
-C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta2\Pregunta2\obj\Debug\Pregunta2.Form1.resources
-C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta2\Pregunta2\obj\Debug\Pregunta2.Properties.Resources.resources
-C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta2\Pregunta2\obj\Debug\Pregunta2.csproj.GenerateResource.Cache
-C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta2\Pregunta2\obj\Debug\Pregunta2.exe
-C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta2\Pregunta2\obj\Debug\Pregunta2.pdb
