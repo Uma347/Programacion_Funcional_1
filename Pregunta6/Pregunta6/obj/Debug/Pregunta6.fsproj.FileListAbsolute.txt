@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta6\Pregunta6\bin\Debug\Pregunta6.exe.config
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta6\Pregunta6\bin\Debug\Pregunta6.XML
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta6\Pregunta6\bin\Debug\Pregunta6.exe
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta6\Pregunta6\bin\Debug\Pregunta6.pdb
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta6\Pregunta6\bin\Debug\FSharp.Core.dll
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta6\Pregunta6\bin\Debug\FSharp.Core.xml
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta6\Pregunta6\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta6\Pregunta6\obj\Debug\Pregunta6.fsprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta6\Pregunta6\obj\Debug\Pregunta6.exe
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta6\Pregunta6\obj\Debug\Pregunta6.pdb
