@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta1\Pregunta1\bin\Debug\Pregunta1.exe.config
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta1\Pregunta1\bin\Debug\Pregunta1.exe
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta1\Pregunta1\bin\Debug\Pregunta1.pdb
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta1\Pregunta1\bin\Debug\Pregunta1.xml
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta1\Pregunta1\obj\Debug\Pregunta1.Form1.resources
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta1\Pregunta1\obj\Debug\Pregunta1.Resources.resources
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta1\Pregunta1\obj\Debug\Pregunta1.vbproj.GenerateResource.Cache
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta1\Pregunta1\obj\Debug\Pregunta1.exe
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta1\Pregunta1\obj\Debug\Pregunta1.xml
+C:\Users\hp\Documents\DocCarrera\9no_semetre\319\PrimerExamen319\Pregunta1\Pregunta1\obj\Debug\Pregunta1.pdb
